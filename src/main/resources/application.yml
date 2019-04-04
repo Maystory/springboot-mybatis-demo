@@ -1,5 +1,6 @@
 
 
+
 spring:
   datasource:
     username: root
@@ -32,10 +33,10 @@ spring:
 #      suffix:
   thymeleaf:
     cache: false
-  http:
-    multipart:
-      max-file-size: 10MB
-      max-request-size: 100MB
+#  http:
+#    multipart:
+#      max-file-size: 10MB
+#      max-request-size: 100MB
 
 logging:
   config: classpath:logback-spring.xml
@@ -48,6 +49,7 @@ mybatis-plus:
 server:
   tomcat:
     uri-encoding: utf-8
+  port: 8080
 
 
 
