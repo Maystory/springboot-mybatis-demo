@@ -1,86 +1,11 @@
-2019-05-16 22:00:06.814 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68508 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:00:06.832 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:00:06.833 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:00:07.118 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:00:09.125 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:00:09.140 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:00:09.141 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:00:09.282 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:00:10.705 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:00:11.723 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:00:12.354 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:00:12.381 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:00:12.399 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 6.631 seconds (JVM running for 8.153)
-2019-05-16 22:00:20.997 [ Thread-16 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
-2019-05-16 22:01:52.652 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68542 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:01:52.665 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:01:52.668 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:01:53.168 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:01:56.154 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:01:56.182 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:01:56.183 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:01:56.473 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:01:58.428 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:02:00.186 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:02:01.050 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:02:01.081 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:02:01.111 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 10.218 seconds (JVM running for 11.913)
-2019-05-16 22:11:41.770 [ Thread-23 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
-2019-05-16 22:12:05.674 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68729 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:12:05.681 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:12:05.683 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:12:05.924 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:12:09.220 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:12:09.243 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:12:09.244 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:12:09.392 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:12:12.448 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:12:14.560 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:12:15.791 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:12:15.828 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:12:15.862 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 11.462 seconds (JVM running for 12.962)
-2019-05-16 22:12:37.361 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring FrameworkServlet 'dispatcherServlet'
-2019-05-16 22:13:19.204 [ Thread-26 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
-2019-05-16 22:13:26.292 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68767 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:13:26.297 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:13:26.297 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:13:26.558 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:13:28.699 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:13:28.733 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:13:28.734 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:13:28.919 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:13:30.292 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:13:31.487 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:13:32.392 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:13:32.415 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:13:32.436 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 7.223 seconds (JVM running for 8.725)
-2019-05-16 22:13:40.331 [ http-nio-8080-exec-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring FrameworkServlet 'dispatcherServlet'
-2019-05-16 22:13:56.467 [ Thread-18 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
-2019-05-16 22:14:20.699 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68785 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:14:20.704 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:14:20.704 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:14:20.900 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:14:23.081 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:14:23.099 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:14:23.099 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:14:23.235 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:14:24.480 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:14:25.627 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:14:26.518 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:14:26.547 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:14:26.570 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 7.045 seconds (JVM running for 8.539)
-2019-05-16 22:14:33.159 [ Thread-17 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
-2019-05-16 22:14:57.319 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMBP-2 with PID 68795 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
-2019-05-16 22:14:57.324 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
-2019-05-16 22:14:57.324 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
-2019-05-16 22:14:57.554 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
-2019-05-16 22:14:59.412 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:14:59.427 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
-2019-05-16 22:14:59.427 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
-2019-05-16 22:14:59.566 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
-2019-05-16 22:15:00.735 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 923 ] - {dataSource-1} inited
-2019-05-16 22:15:01.851 [ main ] - [ WARN  ] [ org.thymeleaf.templatemode.TemplateMode : 150 ] - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
-2019-05-16 22:15:02.789 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
-2019-05-16 22:15:02.814 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
-2019-05-16 22:15:02.837 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 6.375 seconds (JVM running for 7.89)
-2019-05-16 22:15:10.081 [ Thread-17 ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 1818 ] - {dataSource-1} closed
+2020-02-03 14:01:04.176 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 48 ] - Starting WebRun on appledeMacBook-Pro-3.local with PID 6739 (/Users/apple/IdeaProjects/meifans/springboot-mybatis-demo/target/classes started by apple in /Users/apple/IdeaProjects/meifans/springboot-mybatis-demo)
+2020-02-03 14:01:04.205 [ main ] - [ DEBUG ] [ com.mf.mybatisdemo.WebRun : 51 ] - Running with Spring Boot v1.5.16.RELEASE, Spring v4.3.19.RELEASE
+2020-02-03 14:01:04.206 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 593 ] - No active profile set, falling back to default profiles: default
+2020-02-03 14:01:04.555 [ background-preinit ] - [ INFO  ] [ org.hibernate.validator.internal.util.Version : 30 ] - HV000001: Hibernate Validator 5.3.6.Final
+2020-02-03 14:01:07.264 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-02-03 14:01:07.277 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 180 ] - Starting service [Tomcat]
+2020-02-03 14:01:07.277 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 180 ] - Starting Servlet Engine: Apache Tomcat/8.5.34
+2020-02-03 14:01:07.394 [ localhost-startStop-1 ] - [ INFO  ] [ o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] : 180 ] - Initializing Spring embedded WebApplicationContext
+2020-02-03 14:01:08.399 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 180 ] - Starting ProtocolHandler ["http-nio-8080"]
+2020-02-03 14:01:08.420 [ main ] - [ INFO  ] [ org.apache.tomcat.util.net.NioSelectorPool : 180 ] - Using a shared selector for servlet write/read
+2020-02-03 14:01:08.444 [ main ] - [ INFO  ] [ com.mf.mybatisdemo.WebRun : 57 ] - Started WebRun in 5.114 seconds (JVM running for 6.716)
